@@ -1,0 +1,62 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\starWar_9_1\StarWarDemo1\STarWarDemo1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.317642 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5468 -> priority: 1 
+  Thread -> id: 47b8 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.940008 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3873.
+Total: 3.047601 ms (FindLiveObjects: 0.199256 ms CreateObjectMapping: 0.034330 ms MarkObjects: 2.774021 ms  DeleteObjects: 0.038577 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.686780 ms
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 533.
+Total: 0.865333 ms (FindLiveObjects: 0.297646 ms CreateObjectMapping: 0.016988 ms MarkObjects: 0.380109 ms  DeleteObjects: 0.169173 ms)
+
+The referenced script on this Behaviour (Game Object 'GUI') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.563793 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 508.
+Total: 0.440983 ms (FindLiveObjects: 0.041054 ms CreateObjectMapping: 0.024420 ms MarkObjects: 0.280304 ms  DeleteObjects: 0.094496 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.457617 ms
+
+Unloading 125 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 0.552822 ms (FindLiveObjects: 0.041762 ms CreateObjectMapping: 0.015926 ms MarkObjects: 0.164572 ms  DeleteObjects: 0.330206 ms)
+
